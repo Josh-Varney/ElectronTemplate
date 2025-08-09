@@ -5,10 +5,6 @@ function Homepage() {
         <div>
             <h1>Hello react in electron</h1>
             <h1>Homepage</h1>
-            <div className=''>
-                <h1>Hello react in electron</h1>
-                <h1>Homepage</h1>
-            </div>
         </div>
     )
 }
